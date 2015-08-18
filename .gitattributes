@@ -16,3 +16,6 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 *.lfsType filter=lfs diff=lfs merge=lfs -text
+*.bigino filter=lfs diff=lfs merge=lfs -text
+*.bigh filter=lfs diff=lfs merge=lfs -text
+*.bigcpp filter=lfs diff=lfs merge=lfs -text
